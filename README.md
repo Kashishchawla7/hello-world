@@ -1,4 +1,4 @@
 # hello-world
 just a demo one
-startimg something new 
+starting something new 
 hope Eveything Goes right
